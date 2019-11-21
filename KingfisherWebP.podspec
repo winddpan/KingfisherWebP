@@ -35,7 +35,7 @@ KingfisherWebP is an extension of the popular library [Kingfisher](https://githu
   }
 
   s.vendored_frameworks = 'libwebp/*.framework'
-  s.dependency 'Kingfisher', '~> 5.8'
+  s.dependency 'Kingfisher', '~> 4.0'
   #s.dependency 'libwebp', '>= 0.5.0'
   
 end
